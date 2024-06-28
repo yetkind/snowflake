@@ -1,3 +1,7 @@
+# MIT License
+# Copyright (c) 2024 Yetkin Degirmenci
+# This script uses the OTX API to search for IP addresses associated with a domain with a specifically passive_dns endpoint.
+
 import requests
 import json
 import csv
